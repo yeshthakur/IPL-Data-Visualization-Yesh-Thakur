@@ -18,4 +18,4 @@ Batsmen who have hit the most number of fours and sixes (per season and overall)
 Dashboard 3 - Team Statistics
 
 Season-wise team performance (wins vs losses)
-Win percentage ( home vs away)
+Win percentage (home vs away)
